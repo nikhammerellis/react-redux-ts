@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Jogging",
+      "dateStart": "2020-12-08T17:52:07.097Z",
+      "dateEnd": "2020-12-08T18:52:07.097Z"
+    },
+    {
+      "title": "Learning typescript",
+      "dateStart": "2020-12-08T18:52:07.097Z",
+      "dateEnd": "2020-12-08T19:52:07.097Z",
+      "id": 2
+    },
+    {
+      "title": "Update Test",
+      "dateStart": "2020-12-17T19:30:37.090Z",
+      "dateEnd": "2020-12-17T19:30:43.395Z",
+      "id": 3
+    },
+    {
+      "title": "No name",
+      "dateStart": "2020-12-17T19:31:15.020Z",
+      "dateEnd": "2020-12-17T19:31:19.251Z",
+      "id": 4
+    }
+  ]
+}
